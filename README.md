@@ -1,5 +1,9 @@
 # Counter
 
+Contador com Phoenix e Elixir sem JavaScript
+
+Tecnologia ultilizadas: HTML5, CSS3, PHOENIX FRAMEWORK E ELIXIR
+
 <p align="left">
   <img alt="App" src="./assets/page.jpeg" width="50%" height="30%">
 </p>
